@@ -1,4 +1,4 @@
-🌿 Serveur Survie Moddé [1.21] 🌍
+🌿 Serveur Survie Moddé [1.21.1] 🌍
 
 Plonge dans une aventure unique avec des mods qui enrichissent le gameplay : nouveaux biomes, créatures, défis et bien plus ! 🤩 Seul ou en équipe, bâtis ton empire et survis dans ce monde revisité.
 
